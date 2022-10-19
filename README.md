@@ -46,8 +46,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-![Product Name Screen Shot][product-screenshot]
+<p align="center">
+    <img  src="readme_demo.webp" />
+</p>
 
 A simple object oriented python clone of the clasic game frogger, made as an assigment of [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.appbrewery.co/). Uploaded to github to share with friends
 
